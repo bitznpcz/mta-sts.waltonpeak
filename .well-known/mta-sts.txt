@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-mx: waltonpeakfha-co-uk.mail.protection.outlook.com, ms57468726.msv1.invalid
+mx: waltonpeakfha-co-uk.mail.protection.outlook.com
+mx: ms57468726.msv1.invalid
 max_age: 86400
